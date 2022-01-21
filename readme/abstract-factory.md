@@ -1,11 +1,5 @@
 # Abstract Factory
 
-## Also Knonwn as
-
----
-
-Kit
-
 ## 의도
 
 ---
