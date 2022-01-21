@@ -1,6 +1,6 @@
 # Abstract-Document
 
-## Intent
+## 의도
 
 ---
 
