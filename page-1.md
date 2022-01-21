@@ -165,8 +165,8 @@ And finally here's how we construct and use the Car in a full example.
 
 ---
 
-Use the Abstract Document Pattern when
+Abstract Document Pattern을 다음과 같은 케이스에서 사용하시면 좋습니다.
 
-- There is a need to add new properties on the fly
-- You want a flexible way to organize domain in tree like structure
-- You want more loosely coupled system
+- 새로운 속성을 즉시 추가할 필요가 있는 상황
+- 도메인을 트리와 같은 구조로 유연하게 구성할 수 있는 방법을 원할 때
+- 좀 더 느슨하게 결합된 시스템을 원하는 경우
