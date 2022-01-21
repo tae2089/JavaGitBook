@@ -161,6 +161,12 @@ And finally here's how we construct and use the Car in a full example.
     // door/Lambo/300
 ```
 
+## Class diagram
+
+---
+
+![diagram](../img/AbstractDocument.png)
+
 ## Applicability
 
 ---
