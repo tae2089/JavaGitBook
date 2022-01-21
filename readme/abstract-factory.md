@@ -237,3 +237,9 @@ Abstracy Factory pattern은 다음과 같을 때 적용하면 좋습니다.
 - java의 종속성 주입은 컴파일 시 잡혔을 런타임 오류를 유발할 수 있는 서비스 클래스 종속성을 숨겨줍니다.
 - 미리 정의된 개체를 생성할 때 해당 패턴을 사용하면 좋지만 새 개체를 추가하는 것은 어려울 수 있습니다.
 - 패턴과 함께 새로운 인터페이스와 클래스를 많이 사용하기 때문에 코드가 복잡해집니다.
+
+## 코드 링크
+
+---
+
+{% embed url="https://github.com/tae2089/java-degine-pattern/tree/master/src/main/java/com/pattern/abstractfactory" %}
