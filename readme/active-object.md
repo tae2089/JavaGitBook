@@ -1,4 +1,4 @@
-# active-object
+# Active Object
 
 ## 의도
 
